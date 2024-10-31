@@ -1,0 +1,1325 @@
+# Copyright (C) 2024 WP Squad
+# This file is distributed under the GPL-3.0-only.
+msgid ""
+msgstr ""
+"Project-Id-Version: Squad Post Grid Module 1.1.0\n"
+"Report-Msgid-Bugs-To: https://thewpsquad.com/contact\n"
+"POT-Creation-Date: 2024-04-05 19:42:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WP Squad <support@thewpsquad.com>\n"
+"Language-Team: WP Squad <support@thewpsquad.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:95
+msgid "Show Divider"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:96
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect "
+"the divider height."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:118
+msgid "Line Color"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:119
+msgid "This will adjust the color of the 1px divider line."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:130
+msgid "Line Style"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:131
+msgid "Select the shape of the dividing line used for the divider."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:143
+msgid "Line Position"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:144
+msgid ""
+"The dividing line can be placed either above, below or in the center of the "
+"module."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:149
+msgid "Vertically Centered"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:160
+msgid "Divider Weight"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:161
+msgid ""
+"Increasing the divider weight will increase the thickness of the dividing "
+"line."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:180
+msgid "Divider Max Width"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:182
+msgid "Here you can choose divider max width."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:197
+msgid "Divider Border Radius"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Element_Divider.php:199
+msgid "Here you can choose divider border  radius."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:115
+msgid "Here you can define a custom padding size for the field."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:192
+msgid ""
+"Adjust the background style of the current field by customizing the "
+"background color, gradient, and image."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:247
+msgid "No"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:248
+msgid "Yes"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:296
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:333
+#: includes/Base/BuilderModule/Traits/Fields.php:404
+#: includes/Modules/PostGridChild/PostGridChild.php:787
+#: includes/Modules/PostGridChild/PostGridChild.php:816
+msgid "Here you can choose where to place the icon."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:300
+msgid "Select one"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Field_Definition.php:358
+#: includes/Base/BuilderModule/Traits/Fields.php:474
+#: includes/Modules/PostGrid/PostGrid.php:885
+#: includes/Modules/PostGridChild/PostGridChild.php:806
+msgid "Align icon to the left, right or center."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:35
+msgid "H1 tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:36
+msgid "H2 tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:37
+msgid "H3 tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:38
+msgid "H4 tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:39
+msgid "H5 tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:40
+msgid "H6 tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:41
+msgid "P tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:42
+msgid "SPAN tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:43
+msgid "DIV tag"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:93
+msgid "Button"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:94
+msgid "The text of your button will appear in with the module."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:109
+msgid "Button Icon Type"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:111
+msgid "Choose an icon type to display with your button."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:113
+#: includes/Modules/PostGridChild/PostGridChild.php:100
+#: includes/Modules/PostGridChild/PostGridChild.php:113
+#: includes/Modules/PostGridChild/PostGridChild.php:553
+msgid "Icon"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:115
+#: includes/Modules/PostGridChild/PostGridChild.php:556
+msgid "None"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:136
+#: includes/Modules/PostGridChild/PostGridChild.php:588
+#: includes/Modules/PostGridChild/PostGridChild.php:655
+msgid "Choose an icon"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:137
+msgid "Choose an icon to display with your button."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:150
+msgid "Upload an image to display at the top of your button."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:154
+#: includes/Modules/PostGridChild/PostGridChild.php:606
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:155
+#: includes/Modules/PostGridChild/PostGridChild.php:607
+msgid "Set As Image"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:220
+msgid "Enable Hover Animation"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:222
+msgid ""
+"By default, the button element will be not get any hover animation. If you "
+"would like get hover animation for the button, then you can enable this "
+"option."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:236
+msgid "Animation Type"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:238
+msgid "Choose an animation type to display with your button."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:240
+msgid "fill"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:241
+msgid "pulse"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:242
+msgid "close"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:243
+msgid "raise"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:244
+msgid "up"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:245
+msgid "slide"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:246
+msgid "offset"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:260
+#. translators: 1. Field Name.
+msgid "%1$s Background"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:261
+msgid ""
+"Adjust the background style of the button by customizing the background "
+"color, gradient, and image."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:323
+#: includes/Modules/PostGridChild/PostGridChild.php:680
+msgid "Icon Color"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:325
+msgid "Here you can define a custom color for your button icon."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:335
+#: includes/Modules/PostGridChild/PostGridChild.php:707
+msgid "Icon Size"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:337
+#: includes/Modules/PostGrid/PostGrid.php:827
+#: includes/Modules/PostGridChild/PostGridChild.php:709
+#: includes/Modules/PostGridChild/PostGridChild.php:755
+msgid "Here you can choose icon size."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:351
+#: includes/Modules/PostGridChild/PostGridChild.php:723
+msgid "Image Width"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:353
+#: includes/Modules/PostGridChild/PostGridChild.php:725
+msgid "Here you can choose image width."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:366
+#: includes/Modules/PostGridChild/PostGridChild.php:738
+msgid "Image Height"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:368
+#: includes/Modules/PostGridChild/PostGridChild.php:740
+msgid "Here you can choose image height."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:381
+msgid "Gap Between Icon/Image and Text"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:383
+#: includes/Modules/PostGridChild/PostGridChild.php:770
+msgid "Here you can choose gap between icon and text."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:402
+#: includes/Modules/PostGridChild/PostGridChild.php:785
+msgid "Icon Placement"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:416
+#: includes/Modules/PostGridChild/PostGridChild.php:830
+msgid "Show Icon On Hover"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:418
+msgid ""
+"By default, button icon to always be displayed. If you would like button "
+"icon are displayed on hover, then you can enable this option."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:429
+#: includes/Modules/PostGridChild/PostGridChild.php:843
+msgid "Move Icon On Hover Only"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:431
+msgid ""
+"By default, icon and text are both move on hover. If you would like button "
+"icon move on hover, then you can enable this option."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:442
+msgid "Resize Button"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:444
+msgid ""
+"By default, the button element will be get default width. If you would like "
+"resize the button, then you can enable this option."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:455
+msgid "Button Width"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:457
+msgid "Adjust the width of the content within the button."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:472
+msgid "Button Elements Alignment"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:486
+msgid "Icon/Image Margin"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:488
+msgid "Here you can define a custom padding size for the icon."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:499
+msgid "Button Margin"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:501
+msgid "Here you can define a custom margin size for the button."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:511
+msgid "Button Padding"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:513
+msgid "Here you can define a custom padding size for the button."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:535
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:541
+msgid "CSS ID"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:542
+msgid ""
+"Assign a unique CSS ID to the element which can be used to assign custom "
+"CSS styles from within your child theme or from within Divi's custom CSS "
+"inputs."
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:550
+msgid "CSS Class"
+msgstr ""
+
+#: includes/Base/BuilderModule/Traits/Fields.php:551
+msgid ""
+"Assign any number of CSS Classes to the element, separated by spaces, which "
+"can be used to assign custom CSS styles from within your child theme or "
+"from within Divi's custom CSS inputs."
+msgstr ""
+
+#: includes/Integration/WP.php:77
+#. translators: 1: PHP version symbolic text
+msgid ""
+"Your site is running an %1$s of PHP that is no longer supported. Please "
+"contact your web hosting provider to update your PHP version."
+msgstr ""
+
+#: includes/Integration/WP.php:78
+msgid "insecure version"
+msgstr ""
+
+#: includes/Integration/WP.php:82
+#. translators: 1: Plugin name 2: Required WordPress version
+msgid "%1$s The %2$s plugin is disabled on your site until you fix the issue."
+msgstr ""
+
+#: includes/Integration/WP.php:83
+msgid "Note"
+msgstr ""
+
+#: includes/Integration/WP.php:84 includes/Integration/WP.php:100
+msgid "Form Styler for Divi"
+msgstr ""
+
+#: includes/Integration/WP.php:99
+#. translators: 1: Plugin name 2: Required WordPress version
+msgid "The %1$s plugin is disabled because it requires WordPress \"%2$s\" or later."
+msgstr ""
+
+#: includes/Manager/Modules.php:25 includes/Modules/PostGrid/PostGrid.php:62
+msgid "Post Grid"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Display your blog posts in a stylish and organized grid layout."
+msgstr ""
+
+#: includes/Manager/Modules.php:28
+#: includes/Modules/PostGridChild/PostGridChild.php:55
+msgid "Post Element"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:63
+msgid "Post Grids"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:76
+msgid "Post Settings"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:77
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:78
+msgid "Pagination Settings"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:83
+#: includes/Modules/PostGrid/PostGrid.php:376
+msgid "Post Wrapper"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:84
+msgid "Element Wrapper"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:85
+#: includes/Modules/PostGrid/PostGrid.php:188
+#: includes/Modules/PostGridChild/PostGridChild.php:92
+#: includes/Modules/PostGridChild/PostGridChild.php:102
+#: includes/Modules/PostGridChild/PostGridChild.php:136
+#: includes/Modules/PostGridChild/PostGridChild.php:204
+#: includes/Modules/PostGridChild/PostGridChild.php:293
+msgid "Element"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:86
+#: includes/Modules/PostGrid/PostGrid.php:380
+msgid "Pagination Wrapper"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:87
+#: includes/Modules/PostGrid/PostGrid.php:99
+#: includes/Modules/PostGrid/PostGrid.php:122
+#: includes/Modules/PostGrid/PostGrid.php:207
+#: includes/Modules/PostGrid/PostGrid.php:249
+#: includes/Modules/PostGrid/PostGrid.php:384
+msgid "Pagination"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:88
+msgid "Pagination Text"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:89
+#: includes/Modules/PostGrid/PostGrid.php:388
+msgid "Active Pagination"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:90
+msgid "Active Pagination Text"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:149
+#: includes/Modules/PostGrid/PostGrid.php:169
+#: includes/Modules/PostGrid/PostGrid.php:228
+#: includes/Modules/PostGridChild/PostGridChild.php:99
+#: includes/Modules/PostGridChild/PostGridChild.php:289
+msgid "Wrapper"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:273
+#: includes/Modules/PostGrid/PostGrid.php:287
+#: includes/Modules/PostGrid/PostGrid.php:315
+#: includes/Modules/PostGridChild/PostGridChild.php:222
+msgid "Wrapper Box Shadow"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:301
+#: includes/Modules/PostGridChild/PostGridChild.php:253
+msgid "Element Box Shadow"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:331
+#: includes/Modules/PostGrid/PostGrid.php:347
+msgid "Pagination Box Shadow"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:400
+msgid "Add New Element"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:412
+msgid "Posts For Current Page"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:414
+msgid "Display posts for the current page. Useful on all author pages."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:427
+msgid "Display By"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:429
+msgid "Sort retrieved posts by parameter. Defaults to ‘recent’."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:431
+msgid "Recent"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:432
+msgid "Category"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:433
+msgid "Tag"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:452
+msgid "Include Categories"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:455
+msgid "All Categories"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:456
+msgid "Current Category"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:468
+msgid "Include Tags"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:480
+msgid "Order By"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:482
+msgid "Sort retrieved posts by parameter. Defaults to ‘date’."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:484
+msgid "Publish Date"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:485
+msgid "Modified Date"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:486
+msgid "Name"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:487
+#: includes/Modules/PostGridChild/PostGridChild.php:68
+msgid "Title"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:488
+#: includes/Modules/PostGridChild/PostGridChild.php:71
+msgid "Author"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:489
+msgid "Comments"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:490
+msgid "Random"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:500
+msgid "Order"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:502
+msgid ""
+"Designates the ascending or descending order of the ‘orderby‘ parameter. "
+"Defaults to ‘Ascending’.."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:504
+msgid "Ascending"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:505
+msgid "Descending"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:516
+msgid "Post Count"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:518
+msgid "Here you can choose how much posts you would like to display per page."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:542
+msgid "Post Offset"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:544
+msgid "Here you can choose how much post show in the current page."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:567
+msgid "Skip Sticky Posts"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:569
+msgid " Ignore sticky  posts for the current page."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:579
+msgid "Feature Image Size"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:580
+#: includes/Modules/PostGrid/PostGrid.php:592
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:591
+msgid "Date Format"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:621
+msgid "Column Numbers"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:623
+msgid "Here you can choose list column for grid layout."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:643
+msgid "Columns Gap"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:645
+msgid "Here you can choose list item gap."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:662
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:664
+#: includes/Modules/PostGrid/PostGrid.php:711
+#: includes/Modules/PostGrid/PostGrid.php:722
+msgid "Here you can choose whether or not show the pagination."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:709
+msgid "Show Numbers"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:720
+msgid "Show Icon Only for Older and Next Entries "
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:738
+msgid "Old Entries Text"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:739
+msgid "The text will appear in with your old entries."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:747
+msgid "Old Entries Icon"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:748
+msgid "Choose an icon to display with your old entries."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:761
+msgid "Next Entries Text"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:762
+msgid "The text will appear in with your next entries."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:770
+msgid "Next Entries Icon"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:771
+msgid "Choose an icon to display with your next entries."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:785
+#: includes/Modules/PostGrid/PostGrid.php:1035
+#: includes/Modules/PostGrid/PostGrid.php:1044
+msgid "Wrapper Background"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:795
+#: includes/Modules/PostGrid/PostGrid.php:805
+msgid "Pagination Background"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:816
+msgid "Entries Icon Color"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:818
+#: includes/Modules/PostGridChild/PostGridChild.php:682
+#: includes/Modules/PostGridChild/PostGridChild.php:700
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:825
+msgid "Entries Icon Size"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:843
+msgid "Gap Between Entries Icon and Text"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:845
+msgid "Here you can choose gap between entries icon and text."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:863
+msgid "Gap Between Pagination Elements"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:865
+msgid "Here you can choose gap between pagination elements."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:883
+msgid "Pagination Alignment"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:895
+msgid "Entries Icon Margin"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:897
+#: includes/Modules/PostGrid/PostGrid.php:931
+#: includes/Modules/PostGrid/PostGrid.php:967
+#: includes/Modules/PostGrid/PostGrid.php:1001
+#: includes/Modules/PostGrid/PostGrid.php:1122
+#: includes/Modules/PostGridChild/PostGridChild.php:954
+msgid "Here you can define a custom margin size."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:912
+msgid "Entries Icon Padding"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:914
+#: includes/Modules/PostGrid/PostGrid.php:950
+#: includes/Modules/PostGrid/PostGrid.php:984
+#: includes/Modules/PostGrid/PostGrid.php:1018
+#: includes/Modules/PostGrid/PostGrid.php:1089
+#: includes/Modules/PostGrid/PostGrid.php:1111
+#: includes/Modules/PostGrid/PostGrid.php:1138
+#: includes/Modules/PostGridChild/PostGridChild.php:865
+#: includes/Modules/PostGridChild/PostGridChild.php:886
+#: includes/Modules/PostGridChild/PostGridChild.php:929
+#: includes/Modules/PostGridChild/PostGridChild.php:969
+msgid "Here you can define a custom padding size."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:929
+#: includes/Modules/PostGrid/PostGrid.php:1078
+#: includes/Modules/PostGrid/PostGrid.php:1100
+msgid "Wrapper Margin"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:948
+#: includes/Modules/PostGrid/PostGrid.php:1087
+#: includes/Modules/PostGrid/PostGrid.php:1109
+msgid "Wrapper Padding"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:965
+#: includes/Modules/PostGrid/PostGrid.php:999
+msgid "Pagination Margin"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:982
+#: includes/Modules/PostGrid/PostGrid.php:1016
+msgid "Pagination Padding"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1053
+msgid "Element Background"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1064
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1066
+#: includes/Modules/PostGridChild/PostGridChild.php:909
+msgid "This controls how your text is aligned within the module."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1080
+#: includes/Modules/PostGrid/PostGrid.php:1102
+#: includes/Modules/PostGridChild/PostGridChild.php:920
+msgid "Here you can define a custom margin size for the wrapper."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1120
+msgid "Element Margin"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1136
+msgid "Element Padding"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1222
+msgid "Add one or more element(s)."
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1241
+msgid "Posts not available according to your criteria"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1797
+msgid "Old Entries"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:1798
+msgid "Next Entries"
+msgstr ""
+
+#: includes/Modules/PostGrid/PostGrid.php:2156
+#: includes/Modules/PostGridChild/PostGridChild.php:74
+msgid "Read More"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:56
+msgid "Post Elements"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:69
+#: includes/Modules/PostGridChild/PostGridChild.php:285
+msgid "Feature Image"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:70
+msgid "Content"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:72
+msgid "Author Gravatar"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:73
+msgid "Date"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:75
+msgid "Comments Count"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:76
+msgid "Categories"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:77
+msgid "Tags"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:78
+#: includes/Modules/PostGridChild/PostGridChild.php:516
+msgid "Custom Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:79
+#: includes/Modules/PostGridChild/PostGridChild.php:94
+#: includes/Modules/PostGridChild/PostGridChild.php:104
+msgid "Divider"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:93
+msgid "Icon Element"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:101
+msgid "Icon Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:103
+msgid "Element Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:236
+msgid "Icon Box Shadow"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:281
+msgid "Title Icon"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:309
+msgid "Element Type"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:311
+msgid "Choose an element type to display for current post."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:312
+msgid "Choose a type"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:342
+msgid "Title Tag"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:344
+msgid "Choose a tag to display with your title element."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:353
+msgid "Force Fullwidth"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:355
+msgid "Here you can choose whether or not the image element is full width."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:363
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:365
+msgid "Here you can choose whether or not show post excerpt."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:373
+msgid "Enable Text Limit"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:375
+msgid ""
+"Here you can choose whether or not custom length for post content or "
+"excerpt text limit."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:386
+msgid "Text Limit"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:388
+msgid ""
+"Here you can choose how much text you would like to display for post "
+"content or excerpt."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:409
+msgid "Author Name Type"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:411
+#: includes/Modules/PostGridChild/PostGridChild.php:428
+msgid "Choose a author name type to display for current post."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:413
+msgid "Nickname"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:414
+msgid "Display Name"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:415
+msgid "Full Name"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:416
+msgid "First Name"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:417
+msgid "Last Name"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:426
+msgid "Gravatar Size"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:442
+msgid "Date Type"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:444
+msgid "Choose a date type to display for current post."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:446
+msgid "Publish"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:447
+msgid "Modified"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:456
+msgid "Read More Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:457
+msgid "The text will appear in with your read more element."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:468
+msgid "Before Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:469
+msgid "The before text of your title will appear in with your post element."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:480
+msgid "After Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:481
+msgid "The after text of your title will appear in with your post element."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:492
+msgid "Categories Separator"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:493
+msgid ""
+"The seperator text of your categories will appear in with your categories "
+"element."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:504
+msgid "Tags Separator"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:505
+msgid "The seperator text of your tags will appear in with your tags element."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:517
+msgid "The text will appear in with your custom text element."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:528
+msgid "Show Outside the Container"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:530
+msgid "Here you can choose whether or not show avatar in the outside container."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:549
+msgid "Icon Type"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:551
+msgid "Choose an icon type to display with your post."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:589
+msgid "Choose an icon to display with your post."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:602
+msgid "Upload an image to display at the top of your post."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:616
+msgid "Image Alt Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:617
+msgid "Define the HTML ALT text for your image here."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:627
+msgid "The text of your post will appear in bold as icon."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:636
+msgid "Use Left Icon for Title"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:638
+msgid "Here you can choose whether or not use icon for the post title."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:656
+msgid "Choose an icon to display with your post title."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:666
+msgid "Show Title Icon On Hover"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:668
+msgid ""
+"By default, post title icon on hover be displayed. If you would like post "
+"title icon is displayed all time, then you can enable this option."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:689
+msgid "Icon Background Color"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:691
+msgid "Here you can define a custom background color."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:698
+msgid "Title Icon Color"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:753
+msgid "Title Icon Size"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:768
+msgid "Gap Between Icon and Text"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:804
+msgid "Icon Horizontal Alignment"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:814
+msgid "Icon Vertical Placement"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:818
+msgid "Top"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:819
+msgid "Center"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:820
+msgid "Bottom"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:832
+msgid ""
+"By default, post element icon to always be displayed. If you would like "
+"post element icon are displayed on hover, then you can enable this option."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:845
+msgid ""
+"By default, icon and text are both move on hover. If you would like post "
+"element icon move on hover, then you can enable this option."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:853
+msgid "Icon Margin"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:855
+#: includes/Modules/PostGridChild/PostGridChild.php:875
+msgid "Here you can define a custom margin size for the icon."
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:863
+msgid "Icon Padding"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:873
+msgid "Title Icon Margin"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:884
+msgid "Title Icon Padding"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:897
+#: includes/Modules/PostGridChild/PostGridChild.php:939
+msgid "Background"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:907
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:918
+#: includes/Modules/PostGridChild/PostGridChild.php:952
+msgid "Margin"
+msgstr ""
+
+#: includes/Modules/PostGridChild/PostGridChild.php:927
+#: includes/Modules/PostGridChild/PostGridChild.php:967
+msgid "Padding"
+msgstr ""
+
+#: includes/Utils/Module.php:64
+#. translators: 1: Error message.
+msgid "Error when decoding child props: %1$s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Squad Post Grid Module"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://squadmodules.com/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Squad"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://thewpsquad.com/"
+msgstr ""
+
+#: includes/Base/BuilderBackendPlaceholder.php:44
+msgctxt "Modules dummy content"
+msgid "Custom Text Here"
+msgstr ""
+
+#: includes/Base/BuilderBackendPlaceholder.php:45
+msgctxt "Modules dummy content"
+msgid "Read More"
+msgstr ""
+
+#: includes/Base/BuilderBackendPlaceholder.php:46
+msgctxt "Modules dummy content"
+msgid "Comments: "
+msgstr ""
+
+#: includes/Integration/DiviBuilderBackend.php:133
+msgctxt "Modules dummy content"
+msgid "Older"
+msgstr ""
+
+#: includes/Integration/DiviBuilderBackend.php:134
+msgctxt "Modules dummy content"
+msgid "Next"
+msgstr ""
+
+#: includes/Integration/DiviBuilderBackend.php:135
+msgctxt "Modules dummy content"
+msgid "Load More"
+msgstr ""
